@@ -2,7 +2,7 @@ package com.spring.course.spring_course;
 
 import org.springframework.stereotype.Component;
 
-@Component("catBean")
+//@Component("catBean")
 public class Cat implements Pet {
 
     @Override
